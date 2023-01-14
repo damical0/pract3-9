@@ -1,0 +1,25 @@
+body.body{
+    background-color: bisque;
+}
+h1{
+color: brown;
+text-align: center;
+}
+a.contacto{
+    position: relative;
+    left: 1650px;
+    top: 50px;
+}
+a.cafe{
+    position: relative;
+    left: 800px;
+}
+span.telf{
+    color: red;
+}
+span.correo{
+    color: blue;
+}
+p.texto{
+    color: brown;
+}
